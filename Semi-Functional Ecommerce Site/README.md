@@ -8,7 +8,7 @@ Shopping cart functionality
 Checkout page
 
 **Prerequisites**
-XAMPP – Install from here.
+XAMPP – Install here https://www.apachefriends.org/download.html
 PHP – Included in XAMPP.
 Web Browser – Any modern browser.
 
@@ -20,7 +20,7 @@ Place the project folder in C:/xampp/htdocs/.
 Open the XAMPP Control Panel and start Apache.
 
 **Access the Project:**
-Visit http://localhost/semi-functional-ecommerce-site in your browser.
+Visit http://localhost/ecommerce in your browser.
 
 **Optional: Database Setup**
 Open phpMyAdmin from XAMPP, create a database, and import the .sql file (if included).
